@@ -1,4 +1,4 @@
-#gsq-ui
+##gsq-ui
  
 - 初始化vue项目
     vue created demo
