@@ -4,10 +4,10 @@
     vue created demo
  
 - 安装组件库
-    npm add gsq-ui
+    npm add gsq-ui-upload
  
 - 全局导入
-    import GsqUI form 'gsq-ui'
-    import 'gsq-ui/lib/gsq.css'
+    import GsqUI from 'gsq-ui-upload'
+    import 'gsq-ui-upload/dist/gsq-ui-upload.css'
  
     Vue.use(GsqUI)
